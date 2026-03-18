@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+.env
+__pycache__/
+*.py[cod]
+
+# Base de datos de vectores (muy pesada para Git)
+chroma_db/
+
+# Datos temporales y logs
+data/
+.streamlit/
+.DS_Store
+
+# Archivos de usuario
+*.pdf
+*.txt
