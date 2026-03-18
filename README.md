@@ -46,6 +46,7 @@ python -m streamlit run src/app.py
 3º ¡Empieza a chatear con tus documentos!
 
 ##📂 Estructura del Proyecto
+
 ├── src/
 │   ├── app.py           # Interfaz de usuario (Streamlit)
 │   └── rag_engine.py    # Lógica de RAG y procesamiento
