@@ -28,6 +28,8 @@ Luego, descarga los modelos necesarios:
 ollama pull llama3.1
 ollama pull nomic-embed-text
 
+### 2. Clonar y Configurar
+
 #Clonar el repo
 git clone <tu-url-del-repositorio>
 cd Proyecto-RAG-Pro
@@ -45,7 +47,7 @@ python -m streamlit run src/app.py
 2º Haz clic en "Procesar e Indexar".
 3º ¡Empieza a chatear con tus documentos!
 
-##📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 
 ├── src/
 │   ├── app.py           
