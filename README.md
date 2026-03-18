@@ -48,12 +48,12 @@ python -m streamlit run src/app.py
 ##📂 Estructura del Proyecto
 
 ├── src/
-│   ├── app.py           # Interfaz de usuario (Streamlit)
-│   └── rag_engine.py    # Lógica de RAG y procesamiento
-├── data/                # Carpeta donde se guardan los archivos subidos
-├── chroma_db/           # Base de datos vectorial persistente
-├── requirements.txt     # Librerías necesarias
-└── .gitignore           # Archivos excluidos de Git
+│   ├── app.py           
+│   └── rag_engine.py    
+├── data/                
+├── chroma_db/           
+├── requirements.txt     
+└── .gitignore           
 Desarrollado como un proyecto de Inteligencia Artificial Local.
 ---
 
